@@ -1,4 +1,4 @@
-# q Gesture AR — Stickman Fight
+# Gesture AR — Stickman Fight
 
 > A real-time hand gesture fighting game that runs on your webcam. No controllers. No keyboard. Just your hands.
 
