@@ -35,7 +35,6 @@ Show 👍 **Thumbs Up** to start a round. Then fight using three hand gestures:
 |---|---|---|
 | ![Start](screenshots/start.png) | ![Fight](screenshots/fight.png) | ![Win](screenshots/win.png) |
 
-> *Add your screenshots to the `/screenshots` folder and update the filenames above*
 
 ---
 
@@ -88,16 +87,6 @@ gesture-ar/
 - **Physics** — knockback with friction, gravity on hit particles, screen shake decay
 - **Block mechanic** — palm blocks fist/punch but kick breaks through, adding a rock-paper-scissors layer
 - **Scalable AI** — opponent attack frequency increases each round
-
----
-
-## Roadmap
-
-- [ ] More gestures (uppercut, dodge)
-- [ ] Sound effects on hit
-- [ ] Two-player mode using dual hand tracking
-- [ ] Custom stickman skins
-- [ ] Web version using MediaPipe.js
 
 ---
 
